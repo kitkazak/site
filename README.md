@@ -1,2 +1,1 @@
-# site
-My personal site 👋 
+This is my personal site's repo 
